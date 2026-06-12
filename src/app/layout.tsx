@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: '腾讯广告批量计划管理',
-  description: '快速创建和管理腾讯广告批量推广计划',
+  title: '腾讯广告批量计划管理 - 工作台',
+  description: '多账户批量创建广告工作台',
 }
 
 export default function RootLayout({
